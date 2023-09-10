@@ -7,7 +7,7 @@ public class VariableDemo {
     int i=200;
     long l=20878;
     float radius =2.20f;
-    double pi=3.14d;
+    final double pi=3.14d;
     System.out.println("boolean value is"+male);
     System.out.println("char value is"+c);
     System.out.println("byte value is"+b);  
